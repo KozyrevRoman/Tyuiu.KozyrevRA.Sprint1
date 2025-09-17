@@ -16,7 +16,7 @@ namespace Tyuiu.KozyrevRA.Sprint1.Task1.V24
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Организация ввода/вывода в консольных приложениях                 *"); 
-            Console.WriteLine("* Задание #1                                                              *");
+            Console.WriteLine("* Задание #1                                                              *"); 
             Console.WriteLine("* Вариант #24                                                             *");
             Console.WriteLine("* Выполнил: Козырев Роман Артёмович | СМАРТБ-25-1                         *");
             Console.WriteLine("***************************************************************************");
