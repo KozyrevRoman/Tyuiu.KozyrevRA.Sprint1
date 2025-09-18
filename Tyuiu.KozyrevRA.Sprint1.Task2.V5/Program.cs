@@ -40,7 +40,7 @@ namespace Tyuiu.KozyrevRA.Sprint1.Task2.V5
             x = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Результат:                                                              *");
-            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("***************************************************************************"); 
             Console.WriteLine("Площадь боковой поверхности куба со стороной X = "+ ds.CalculateSideSquare(x));
 
             Console.ReadKey();
