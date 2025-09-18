@@ -11,7 +11,7 @@ namespace Tyuiu.KozyrevRA.Sprint1.Task4.V8.Test
             double x = 10;
             double y = 1;
             double wait =2.538;
-            var res =ds.Calculate(x,y);
+            var res =ds.Calculate(x,y); 
             Assert.AreEqual(wait,res);
         }
     }
