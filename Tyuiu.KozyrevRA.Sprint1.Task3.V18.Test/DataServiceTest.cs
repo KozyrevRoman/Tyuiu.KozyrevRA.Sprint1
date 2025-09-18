@@ -14,7 +14,7 @@ namespace Tyuiu.KozyrevRA.Sprint1.Task3.V18.Test
             double wait = 1.5;
             double z = 2;
             var res = ds.HowManySquares(x, y, z);
-            Assert.AreEqual(wait,res);
+            Assert.AreEqual(wait,res); 
         }
     }
 }

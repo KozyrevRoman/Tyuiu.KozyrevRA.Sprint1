@@ -42,7 +42,7 @@ namespace Tyuiu.KozyrevRA.Sprint1.Task3.V18
             Console.WriteLine("Введите значение C:");
             c = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Результат:                                                              *");
+            Console.WriteLine("* Результат:                                                              *"); 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine(ds.HowManySquares(a,b,c)+" квадратов со стороной "+c+ " можно разместить   *");
             Console.WriteLine("* внутри прямоугольника с размерами " + a+"*"+b+" без наложения           *");
