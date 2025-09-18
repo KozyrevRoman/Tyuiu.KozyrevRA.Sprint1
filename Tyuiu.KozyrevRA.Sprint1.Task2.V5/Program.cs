@@ -43,7 +43,7 @@ namespace Tyuiu.KozyrevRA.Sprint1.Task2.V5
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("Площадь боковой поверхности куба со стороной X = "+ ds.CalculateSideSquare(x));
 
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
