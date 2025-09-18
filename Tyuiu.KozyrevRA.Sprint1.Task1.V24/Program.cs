@@ -34,7 +34,7 @@ namespace Tyuiu.KozyrevRA.Sprint1.Task1.V24
             y = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Результат:                                                              *");
-            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("***************************************************************************"); 
             Console.WriteLine(ds.Calculate(x,y));
             Console.ReadKey(); 
         }
