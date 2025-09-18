@@ -11,7 +11,7 @@ namespace Tyuiu.KozyrevRA.Sprint1.Task0.V12.Lib
     {
         public double Calculate() 
         {
-            return (5 * 2 - 2) / 4 * 3;
+            return (5 * 2 - 2) / 4 * 3; 
         }
     }
 }

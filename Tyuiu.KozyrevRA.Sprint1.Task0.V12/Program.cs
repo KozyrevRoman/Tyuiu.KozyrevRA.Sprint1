@@ -32,7 +32,7 @@ namespace Tyuiu.KozyrevRA.Sprint1.Task0.V12
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine(ds.Calculate());
-            Console.ReadKey();
+            Console.ReadKey(); 
         }
     }
 }
