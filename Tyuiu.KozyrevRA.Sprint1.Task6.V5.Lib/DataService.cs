@@ -1,4 +1,7 @@
 ﻿using System.Linq;
+using System.Text.Json;
+using System.Text.RegularExpressions;
+using System.Threading.Tasks;
 using tyuiu.cources.programming.interfaces.Sprint1;
 namespace Tyuiu.KozyrevRA.Sprint1.Task6.V5.Lib
 {
@@ -6,17 +9,23 @@ namespace Tyuiu.KozyrevRA.Sprint1.Task6.V5.Lib
     {
         public string CheckSymmetricalWords(string value)
         {
-            string rev = new string(value.Reverse().ToArray());
-            bool w = value == rev;
-            if (w == true)
+            string[] words = Regex.Split(value.ToLower(), " ");
+            string s = "";
+            foreach (string word in words)
             {
-                return rev;
+                string rev = new string(word.Reverse().ToArray());
+                int y = 0;
+                bool w = word == rev;
+                if (w == true)
+                {
+                    s +=rev;
+                }
+                else
+                {
+                    y+=1;
+                }
             }
-            else
-            {
-                return "";
-            }
-                
+            return s; 
         }
     }
 }

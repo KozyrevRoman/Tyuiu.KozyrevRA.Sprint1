@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http.Headers;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using Tyuiu.KozyrevRA.Sprint1.Task6.V5.Lib;
 namespace Tyuiu.KozyrevRA.Sprint1.Task6.V5
@@ -29,7 +30,6 @@ namespace Tyuiu.KozyrevRA.Sprint1.Task6.V5
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("Введите строку:");
             string value = Console.ReadLine();
-
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Результат:                                                              *");
             Console.WriteLine("***************************************************************************");

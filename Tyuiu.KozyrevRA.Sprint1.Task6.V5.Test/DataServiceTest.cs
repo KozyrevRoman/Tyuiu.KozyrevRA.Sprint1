@@ -8,9 +8,9 @@ namespace Tyuiu.KozyrevRA.Sprint1.Task6.V5.Test
         public void TestMethod1()
         {
             DataService ds = new DataService();
-            string strTest = "казак";
-            string res = ds.CheckSymmetricalWords( strTest );
-            string wait = "Казак";
+            string strTest = "казак шалаш гкдд";
+            string res = ds.CheckSymmetricalWords(strTest);
+            string wait = "казак шалаш гкдд";
             Assert.AreEqual(wait, res);
         }
     }
