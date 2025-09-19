@@ -13,7 +13,7 @@ namespace Tyuiu.KozyrevRA.Sprint1.Task6.V5.Lib
             string s = "";
             foreach (string word in words)
             {
-                string rev = new string(word.Reverse().ToArray());
+                string rev = new string(word.Reverse().ToArray()); 
                 int y = 0;
                 bool w = word == rev;
                 if (w == true)
