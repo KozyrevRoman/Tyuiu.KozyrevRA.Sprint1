@@ -45,7 +45,7 @@ namespace Tyuiu.KozyrevRA.Sprint1.Task4.V8
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("*   _______                                                               *");
             Console.WriteLine("* _/|x - y| + 3x                                                          *");
-            Console.WriteLine("* -------------- = " + ds.Calculate(x,y)+"                                *");
+            Console.WriteLine("* -------------- = " + ds.Calculate(x,y)+"                                *"); 
             Console.WriteLine("*    3 + |x|                                                              *");
             Console.WriteLine("***************************************************************************");
 
