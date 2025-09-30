@@ -13,7 +13,7 @@ namespace Tyuiu.KozyrevRA.Sprint1.Task5.V2
         {
             DataService ds = new DataService();
             Console.Title = "Спринт #1 | Выполнил: Козырев Р. А. | СМАРТБ-25-1";
-            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("***************************************************************************"); 
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Преобразование типов и класс Convert                              *");
             Console.WriteLine("* Задание #5                                                              *");

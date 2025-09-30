@@ -5,7 +5,7 @@ namespace Tyuiu.KozyrevRA.Sprint1.Task5.V2.Test
     public sealed class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ValidFahrenheitToСelsius()
         {
             DataService ds = new DataService();
             double x = 100.0;

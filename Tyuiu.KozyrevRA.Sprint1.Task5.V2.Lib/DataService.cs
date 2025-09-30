@@ -6,6 +6,6 @@ namespace Tyuiu.KozyrevRA.Sprint1.Task5.V2.Lib
         public int FahrenheitToСelsius(double temp)
         {
             return Convert.ToInt32((temp - 32.0) / 1.8);
-        }
+        } 
     }
 }
