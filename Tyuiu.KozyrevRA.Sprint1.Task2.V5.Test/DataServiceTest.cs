@@ -6,7 +6,7 @@ namespace Tyuiu.KozyrevRA.Sprint1.Task2.V5.Test
     public sealed class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ValidCalculateSideSquare()
         {
             DataService ds = new DataService();
             int x = 6;

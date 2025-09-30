@@ -17,7 +17,7 @@ namespace Tyuiu.KozyrevRA.Sprint1.Task2.V5
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Арифметические операторы в C#                                     *");
             Console.WriteLine("* Задание #2                                                              *");
-            Console.WriteLine("* Вариант #5                                                              *");
+            Console.WriteLine("* Вариант #5                                                              *"); 
             Console.WriteLine("* Выполнил: Козырев Роман Артёмович | СМАРТБ-25-1                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
