@@ -5,7 +5,7 @@ namespace Tyuiu.KozyrevRA.Sprint1.Task6.V5.Test
     public sealed class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ValidCheckSymmetricalWords()
         {
             DataService ds = new DataService();
             string strTest = "Хороший шалаш";
