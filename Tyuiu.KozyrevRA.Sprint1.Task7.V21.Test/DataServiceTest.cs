@@ -5,7 +5,7 @@ namespace Tyuiu.KozyrevRA.Sprint1.Task7.V21.Test
     public sealed class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ValidCalculate()
         {
             DataService ds = new DataService();
             double x = 1;

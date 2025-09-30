@@ -17,7 +17,7 @@ namespace Tyuiu.KozyrevRA.Sprint1.Task7.V21
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема:  Добавление к решению итоговых проектов по спринту                *");
             Console.WriteLine("* Задание #7                                                              *");
-            Console.WriteLine("* Вариант #21                                                              *");
+            Console.WriteLine("* Вариант #21                                                             *");
             Console.WriteLine("* Выполнил: Козырев Роман Артёмович | СМАРТБ-25-1                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
