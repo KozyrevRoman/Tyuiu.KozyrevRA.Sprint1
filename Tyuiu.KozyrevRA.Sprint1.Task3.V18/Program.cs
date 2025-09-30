@@ -15,7 +15,7 @@ namespace Tyuiu.KozyrevRA.Sprint1.Task3.V18
             Console.Title = "Спринт #1 | Выполнил: Козырев Р. А. | СМАРТБ-25-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Операторы составного присваивания                                 *");
+            Console.WriteLine("* Тема: Операторы составного присваивания                                 *"); 
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #18                                                             *");
             Console.WriteLine("* Выполнил: Козырев Роман Артёмович | СМАРТБ-25-1                         *");

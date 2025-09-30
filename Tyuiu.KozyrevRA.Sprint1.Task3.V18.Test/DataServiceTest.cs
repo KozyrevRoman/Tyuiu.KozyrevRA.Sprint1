@@ -6,7 +6,7 @@ namespace Tyuiu.KozyrevRA.Sprint1.Task3.V18.Test
     public sealed class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ValidHowManySquares()
         {
             DataService ds = new DataService();
             double x = 2;
